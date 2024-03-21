@@ -1,6 +1,7 @@
+
 ##  Assignments
 
 |   #   | Folder Link                   | Assignment Description                                                             |
 | :---: | ----------------------------- | -----------------------------------------------------------------------------------|
-|   1   | [A03](./(https://github.com/saikoushikp/5373-MobileApps/tree/main/Assignments/A03))      | [Creating own server and run basic python scripts.](./AO3/README.md)                           |
-|   2   | [AO4](./AO4)      | [Creating Routes to interact and fetch data from mongodb database](./AO4/README.md)            |
+|   1   | [A03](./A03)      | [Creating own server and run basic python scripts.](./A03/README.md)                           |
+|   2   | [A04](./A04)      | [Creating Routes to interact and fetch data from mongodb database](./A04/README.md)            |
