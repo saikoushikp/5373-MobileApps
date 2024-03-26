@@ -280,7 +280,8 @@ if __name__ == "__main__":
 
     uvicorn.run(
         "api:app",
-        host="64.23.175.79",  # Use 0.0.0.0 to bind to all network interfaces
+        host="24.199.125.139",  # Use 0.0.0.0 to bind to all network interfaces2
+        
         #port=443,  # Standard HTTPS port
         port=8084,  # Standard HTTPS port
         log_level="debug",
